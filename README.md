@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório do projeto **Felipe Motors**! Este é um site fictício de uma concessionária, projetado com HTML, CSS e JavaScript para oferecer uma experiência interativa e moderna aos usuários.
 
+Você pode acessar o projeto ao vivo através do seguinte link:
+
+[Felipe Motors](https://felipe-motors.vercel.app/)
+
 ---
 
 ## 🚗 Sobre o Projeto
